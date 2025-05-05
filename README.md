@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 my name is anushika and welcome to my github profile 
 
 <!--
 **anushika-1901/anushika-1901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
