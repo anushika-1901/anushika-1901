@@ -1,4 +1,4 @@
-## Hi there 👋 my name is anushika and welcome to my github profile 
+## Hi there 👋 My name is Anushika Tyagi and Welcome to my GitHub Profile 
 # Tech stack I use:-
 - FrontEnd- HTML5, CSS3, JavaScript(ES6+) , React.js, Vue.js , Tailwind CSS, Figma 
 - BackEnd - Django, Django REST, Node.js, Express.js
