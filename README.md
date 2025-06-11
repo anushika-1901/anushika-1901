@@ -3,5 +3,5 @@
 - Front end- HTML, CSS, JavaScript, React.js, Vue.js , Tailwind CSS, Figma 
 - Back end - Django,Django REST, Node.js,Express.js
 - Databases- MySQL,SQLite,MongoDb,PostgreSQL
-- Programming Languages- Python, C and JavaScript
+- Programming Languages- C/C++ , Python and JavaScript
   
